@@ -1,1 +1,1 @@
-This repository is about showcasing my skills in C++ progamming as my first language, which serves as a building block in the process of expansion for my skill set as an aspiring profesional Software Engineer.
+This repository is about showcasing my skills in C++ progamming as my first language, which serves as a building block in the process of expansion for my skill set as an aspiring professional Software Engineer.

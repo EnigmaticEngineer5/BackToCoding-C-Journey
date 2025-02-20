@@ -1,0 +1,11 @@
+Integer value --> 1
+Double value --> 2.5
+Float value --> 2.55
+Character value --> C
+String value --> Hello, World!
+
+C:\Users\carlo\OneDrive - pupr.edu\Important Files\Code\C++ Code\GettingBackToCoding\x64\Debug\Phase 1 - Step 1.exe (process 16744) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .
+
+

@@ -1,0 +1,15 @@
+Hello! Please, enter two numbers to perform basic operations on them (separate them by a space) --> 5 juan
+Only numeric entries accepted! Try again re-entering the both numbers again --> 3 0
+
+Divison by zero not allowed! Re-enter a second valid option --> juan?
+Only numeric entries accepted! Try again re-entering the mistaken number again --> 2.5
+
+The resulting values the basic operations are:
+        1) Sum --> 5.5
+        2) Difference --> 0.5
+        3) Product --> 7.5
+        4) Quotient --> 1.2
+
+C:\Users\carlo\OneDrive - pupr.edu\Important Files\Code\C++ Code\GettingBackToCoding\x64\Debug\Phase 1 - Step 1.exe (process 18912) exited with code 0 (0x0).
+To automatically close the console when debugging stops, enable Tools->Options->Debugging->Automatically close the console when debugging stops.
+Press any key to close this window . . .

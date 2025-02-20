@@ -1,0 +1,10 @@
+### Step 1: Basic Syntax, Data Types & I/O
+
+- **Learning Objectives:**
+    - Understand the structure of a C++ program
+    - Work with basic data types (int, float, char, etc.)
+    - Write simple input/output operations
+- **Assessment & Practice:**
+    - **Exercise 1:** Write a program that prints “Hello, World!” to the console.
+    - **Exercise 2:** Create a program that declares variables of different types and prints their values.
+    - **Challenge:** Write a program that reads two numbers from the user and prints their sum, difference, product, and quotient.

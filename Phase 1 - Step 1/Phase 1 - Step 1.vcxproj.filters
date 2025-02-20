@@ -15,8 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="exercise1.cpp">
+    <ClCompile Include="exercise01.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="exercise02.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="challenge.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="Instructions.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Output01.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="Output02.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+    <Text Include="ChallengeOutput.txt">
+      <Filter>Resource Files</Filter>
+    </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="challenge.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
